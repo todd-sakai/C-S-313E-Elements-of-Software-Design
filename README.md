@@ -4,7 +4,7 @@
 **Instructor:** Morgan Fong  
 
 ## Course Overview
-CS 313E focuses on the object-oriented design of software using Python. This course provides an introduction to abstract data types, fundamental algorithms, and the basics of complexity analysis. Students will design and implement Python code to solve complex problems by utilizing essential data structures, such as hash tables, linked lists, stacks, queues, trees, and graphs. Please note that this course may not be counted toward a degree in computer science.
+C S 313E focuses on the object-oriented design of software using Python. This course provides an introduction to abstract data types, fundamental algorithms, and the basics of complexity analysis. Students will design and implement Python code to solve complex problems by utilizing essential data structures, such as hash tables, linked lists, stacks, queues, trees, and graphs. Please note that this course may not be counted toward a degree in computer science.
 
 ## Topics Covered
 Throughout the semester, the coursework progresses through the following concepts:
