@@ -1,0 +1,9 @@
+Looking for: wh
+Got: ['who', 'what', 'when', 'where', 'why']
+
+Looking for: whe
+Got: ['when', 'where']
+
+Looking for: h
+Got: ['how']
+

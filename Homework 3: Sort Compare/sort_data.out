@@ -1,0 +1,10 @@
+                      small       large      sorted    reversed
+(data size)            (10)       (500)       (500)       (500)
+COMPARISONS
+selection                45      124750      124750      124750
+insertion                39       60483         499      124750
+quick                    58        6754        5006        5007
+SWAPS
+selection                 9         499         499         499
+insertion                34       59991           0      124737
+quick                     8        1012          13         263

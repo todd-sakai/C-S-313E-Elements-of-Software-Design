@@ -1,0 +1,13 @@
+===== AVL TREE =====
+Tree height: 3
+Tree range: 93
+Values at level  3  : [5, 32, 67, 72, 90, 98]
+Sum of leaf nodes: 364
+Tree left side view: [70, 46, 10, 5]
+
+======== BST =======
+Tree height: 4
+Tree range: 93
+Values at level  3  : [5, 32, 71, 98]
+Sum of leaf nodes: 364
+Tree left side view: [50, 46, 10, 5, 72]
